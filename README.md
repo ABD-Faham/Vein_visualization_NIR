@@ -13,10 +13,10 @@ Vein Visulization using NIR
 
 ### Deployment Steps
 Please follow the below steps to run this project.
-1. Step 1 here
-2. Step 2 here
-3. Step 3 here
-3. and so on...
+1. Download above code and save in raspberrypi
+2. Connect Camera with IR LED 
+3. Run the code
+3. You can use HDMI as well as LCD Display to connect to Raspberry pi for output
 
 ### Subject Details
 - Class : BE (COMP) Div A - 2022-2023
